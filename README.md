@@ -7,7 +7,7 @@ Interactive Photo Gallery Setup Instructions
 
 Clone the repository to your local machine:
 
-git clone<https://github.com/Jackson12000/Challengers.git
+git clone<https://github.com/Jamura8/Challenges.git)
 
 Navigate to the project directory: cd interactive-photo-gallery Open the animalgallery.html file in your web browser to view the interactive photo gallery. 
 open the javascript.js file to see the interactive gallery structure, location and all. Approach HTML Structure: 
@@ -23,7 +23,7 @@ Additional details are displayed when a user hovers over a photo, as specified i
 Coding Challenges Setup Instructions Navigate to the Challenges directory: cd Challenges you Open the arrayMap.js and stringTransform.js
 
 files in your preferred code editor to view the solutions, Approach Array Manipulation (arrayMap.js): I implemented a function to determine 
-if there exists a contiguous subarray within an array that sums up to the target The solution follows the provided problem statement and constraints,
+if there exists a contiguous subarray within an array that sums up to the target The solution follows the provided problem statement and constrai
 achieving the expected time and space complexity
 
 String Transformation (stringTransform.js): I implemented a function to transform a string based on the provided rules. The solution handles all possible cases mentioned in the problem statement and achieves the expected time and space complexity
